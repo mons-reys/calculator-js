@@ -29,6 +29,7 @@
     left: 50%;
     margin-left: -160px;
     top: 100px;
+    border-radius: 20px;
 }
 
 .container .numbers ul{
@@ -47,9 +48,11 @@
     color: white;
     background-color: tomato;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .container .currentOperand{
     font-size: 2.1em;
     font-weight: bold;
 }
+
